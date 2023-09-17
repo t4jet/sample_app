@@ -40,5 +40,10 @@ $ rails test
 $ rails server
 ```
 
+production環境で実行する場合は以下のコマンドを利用してください。
+
+```
+$ rails server -e production
+```
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
